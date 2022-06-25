@@ -17,7 +17,7 @@ Changed query names to confirmed; death; and recorvered accordingly, made first 
 # Findings
 
 1. United States has the highest confirmed cases with  28,199,334,543 as at June 20th 2022 while North Korea has the lowest with just 36 cases.
-2. Amond the top 5 countries with the highest death United States has the highest death ( 432,252,388), followed by Brazil, India, Mexico, and, Russia accordingly
+2. Among the top 5 countries with the highest death United States has the highest death ( 432,252,388), followed by Brazil, India, Mexico, and, Russia accordingly
 3. India has the highest recorvered cases.
 ![Cocid dashb  2](https://user-images.githubusercontent.com/107144786/175726732-b2e856e3-611b-4dbd-b950-2b4c9e8a4992.JPG)
 
